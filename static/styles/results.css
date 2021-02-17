@@ -1,0 +1,10 @@
+#weatherRes{
+    background-color: aqua;
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
