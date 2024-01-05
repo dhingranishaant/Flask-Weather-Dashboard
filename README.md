@@ -3,11 +3,11 @@ This project uses flask framework and python to display the current weather of a
 
 Here are some example images to show how does this work :-
 
-Home Page
+Home Page <br>
 <img width="649" alt="Screenshot 2024-01-05 at 7 45 14 AM" src="https://github.com/dhingranishaant/Flask-Weather-Dashboard/assets/62001446/027485ee-7cdb-4743-8918-59fac8815286">
 
-Inserting Data
+Inserting Data <br>
 <img width="627" alt="Screenshot 2024-01-05 at 7 47 08 AM" src="https://github.com/dhingranishaant/Flask-Weather-Dashboard/assets/62001446/1f50f649-36b8-47fb-b660-3292fb053a53">
 
-Getting results through API
+Getting results through API <br>
 <img width="411" alt="Screenshot 2024-01-05 at 7 47 16 AM" src="https://github.com/dhingranishaant/Flask-Weather-Dashboard/assets/62001446/30f18fe1-11bf-4f26-a61f-89196f9fb1d4">
